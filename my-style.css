@@ -1,0 +1,15 @@
+h1{
+    text-align: center;
+    background-color: deeppink;
+}
+img{
+    float:auto;
+    width: auto;
+}
+p{
+    background-color: aqua;
+    text-align: end;
+    width: 1000px;
+    float: left;
+}
+
