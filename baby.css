@@ -1,0 +1,13 @@
+.accordion-button {
+    background-color: black;
+    color: aliceblue;
+}
+
+#collapseOne {
+    background-color: crimson;
+    color: aliceblue;
+}
+.collapsed
+{
+    background-color: blue;
+}
